@@ -1,1 +1,1 @@
-Fix ONNX GPU inference bug (#6840)
+Add https://youtu.be/ie3vLUDNYZo and other YT videos in Docs (#8551)
